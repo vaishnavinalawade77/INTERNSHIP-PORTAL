@@ -122,3 +122,16 @@ margin:10px;
 #register{
     padding: 5px;
 }
+#checkbtn {
+    float: right;
+    line-height: 80px;
+    margin-right: 10px;
+    font-size: 30px;
+    color: white;
+    display: none;
+}
+#check {
+    display: none;
+
+
+}
